@@ -19,19 +19,19 @@ global.socialm = "GitHub: iamevilboy" //ur github or insta name
 global.location = "Nigeria, lagos, Abuja" //ur location
 
 //new
-global.botname = '𝐀𝐧𝐭𝐢𝐬𝐨𝐜𝐢𝐚𝐥 𝐌𝐃•💎' //ur bot name
-global.ownernumber = '233246274343' //ur owner number
-global.ownername = '𓅓𝐀𝐧𝐭𝐢𝐬𝐨𝐜𝐢𝐚𝐥 𝐇𝐮𝐦𝐢𝐝𝐢𝐭𝐲—ε•𓅓' //ur owner name
+global.botname = '🤪𝙲𝙰𝙻𝙻 𝙼𝙷𝙴 𝙱𝚄𝙼𝙱𝚄𝙼 𝙱𝙾𝚃🤪' //ur bot name
+global.ownernumber = '2349010895477' //ur owner number
+global.ownername = '🤪𝙲𝙰𝙻𝙻 𝙼𝙷𝙴 𝙱𝚄𝙼𝙱𝚄𝙼🤪' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "(^_-)-☆"
-global.themeemoji = '💎'
-global.wm = "Antisocial Bot Inc."
-global.botscript = 'https://github.com/Olamuyiwa63/CheemsBot-MD11' //script link
-global.packname = "𓅓•"
-global.author = "𝐀𝐧𝐭𝐢𝐬𝐨𝐜𝐢𝐚𝐥 𝐇𝐮𝐦𝐢𝐝𝐢𝐭𝐲•𓅓"
-global.creator = "233246274343@s.whatsapp.net"
+global.themeemoji = '🤪'
+global.wm = "𝙲𝙰𝙻𝙻 𝙼𝙷𝙴 𝙱𝚄𝙼𝙱𝚄𝙼 Bot Inc."
+global.botscript = 'https://github.com/Olamuyiwa8673/CheemsBot-MD11' //script link
+global.packname = "🤪𝙲𝙰𝙻𝙻 𝙼𝙷𝙴 𝙱𝚄𝙼𝙱𝚄𝙼🤪"
+global.author = "🤪𝙲𝙰𝙻𝙻 𝙼𝙷𝙴 𝙱𝚄𝙼𝙱𝚄𝙼🤪"
+global.creator = "2349010895477@s.whatsapp.net"
 global.xprefix = '!'
-global.premium = ["233246274343"] // Premium User
+global.premium = ["2349010895477"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -39,11 +39,11 @@ global.typemenu = 'v8' // menu type 'v1' => 'v8'
 global.typereply = 'v2' // reply type 'v1' => 'v3'
 global.autoblocknumber = '212' //set autoblock country code
 global.antiforeignnumber = '212' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
-global.anticall = false //bot blocks user when called
+global.welcome = true //welcome/left in groups
+global.anticall = true //bot blocks user when called
 global.autoswview = true //auto status/story view
-global.adminevent = false //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.adminevent = true //show promote/demote message
+global.groupevent = true //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up!',
